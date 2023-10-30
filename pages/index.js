@@ -26,7 +26,7 @@ const Home = () => {
             exit='hidden'
             className='h1'
           >
-            Transforming Ideas <br /> Into{' '}
+            Transforming Ideas <br /> Into
             <span className='text-accent'>Digital Reality</span>
           </motion.h1>
           {/* subtitle */}
